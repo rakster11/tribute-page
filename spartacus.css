@@ -1,0 +1,60 @@
+#main
+{background-color: lightgray ;
+  
+}
+
+#img-div {
+  width: 100%;
+}
+
+#img-fig {
+  width: 100%;
+  display: block 0;
+  margin: auto;
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+h1 {color:red}
+
+p {
+margin: 25px 125px 25px 125px ;
+}
+
+figcaption {
+  margin: 25px 25px 25px 25px ;
+}
+
+#title {
+  margin: 50px 0;
+  text-align: center;
+  }
+
+#subtitle {
+  text-align: center;
+  }
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+ }  
+
+h2 {
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  margin: 50px 100px 0 100px;
+  text-align: left;  
+}
+
+h3 {
+  text-align: center;
+}
+
